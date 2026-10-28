@@ -1,0 +1,30 @@
+{
+  "name": "switchbot-control",
+  "version": "1.0.3",
+  "description": "Single-owner SwitchBot MCP server for Cloudflare Workers with OAuth and a device allowlist",
+  "main": "worker.js",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --experimental-loader ./cf-loader.mjs test.mjs",
+    "test:runtime": "node runtime-smoke.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@cloudflare/workers-oauth-provider": "1.2.3",
+    "esbuild": "0.28.2"
+  },
+  "private": true,
+  "devDependencies": {
+    "miniflare": "4.20260730.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkoch5t2/switchbot-control.git"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
