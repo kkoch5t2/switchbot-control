@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+<title id="title">SwitchBot Control — power</title>
+<rect width="128" height="128" rx="32" fill="#172B3A"/>
+<g fill="none" stroke="#71E4C7" stroke-width="10" stroke-linecap="round">
+<path d="M64 29v35"/>
+<path d="M40 42a34 34 0 1 0 48 0"/>
+</g>
+</svg>
