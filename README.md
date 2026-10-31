@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/power-logo-v2.svg" alt="SwitchBot Controlのロゴ：電源マーク" width="112" height="112">
+<img src="docs/images/switchbot-plugin-logo.webp" alt="SwitchBot Controlのロゴ：ミントグリーンのプラグ型電源マーク" width="112" height="112">
 
 # SwitchBot Control
 
